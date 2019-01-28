@@ -1,0 +1,4 @@
+#Mon Jan 28 14:48:15 MST 2019
+base.0=C\:\\Users\\adrian\\AndroidStudioProjects\\AndroidTextToSpeech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
